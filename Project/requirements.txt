@@ -1,5 +1,5 @@
-# Add Python dependencies here.
-pandas
-numpy
-sklearn
-matplotlib
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.0
+matplotlib==3.6.2
+pprintpp==0.4.0
