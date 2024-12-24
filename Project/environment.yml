@@ -1,0 +1,8 @@
+# Conda environment file
+name: {project_name}
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
