@@ -1,5 +1,5 @@
 # Conda environment file
-name: {project_name}
+name: Project
 dependencies:
   - python=3.9
   - pandas
